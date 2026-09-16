@@ -1,6 +1,6 @@
 m65sh - for MEGA65
 ==============================
-![simple gif](gif-shell1.gif)
+![simple gif](demo.gif)
 A command shell that boots in place of the BASIC ROM.
 
 
