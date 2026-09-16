@@ -9,13 +9,20 @@ What is in this archive
 The layout IS the card's root, so installing is unpacking the archive
 there:
 
-  MEGA65.ROM            the shell itself, as the ROM the machine boots
-  HICKUP.M65            the hypervisor it needs (see below)
-  msh/bin/*.MSH         commands loaded from the card
-  msh/etc/init.d/       what runs at boot
-  msh/tmp/              scratch
-  msh/var/log/          the syslog
-  msh/mnt/floppy/       where the disk drive is mounted
+
+  MEGA65.ROM            - the shell itself, as the ROM the machine boots
+  
+  HICKUP.M65            - the hypervisor it needs (see below)
+  
+  msh/bin/*.MSH         - commands loaded from the card
+  
+  msh/etc/init.d/       - what runs at boot
+  
+  msh/tmp/              - scratch
+  
+  msh/var/log/          - the syslog
+  
+  msh/mnt/floppy/       - where the disk drive is mounted
 
 
 Installing
